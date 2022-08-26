@@ -25,4 +25,8 @@
 		"username": "TopRamen",
 		"email": "eclevela@richmond.edu"
 	}
-]
+];
+
+[{"comment_text": "If'n you don't know by now!",
+"user_id": 1,
+"post_id": 1}];
